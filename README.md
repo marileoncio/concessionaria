@@ -4,6 +4,7 @@
 
 # Índice 
 * [Descrição do Projeto](#descrição-do-projeto)
+* [Objetivos] (#objetivos)
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-do-projeto)
 * [Acesso ao Projeto](#acesso-ao-projeto)
