@@ -11,7 +11,7 @@ Route::delete('carros/excluir/{id}',[CarrosController::class,'excluir']);
 
 Route::put('carros/update', [CarrosController::class, 'update']);
 
-Route::get('carros/find/modelo', [CarrosController::class, 'pesquisarPorModelo']);
+Route::get('carros/find/{modelo}', [CarrosController::class, 'pesquisarPorModelo']);
 
 Route::get('carros/all', [CarrosController::class, 'retornarTodos']);
 
