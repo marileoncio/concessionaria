@@ -15,8 +15,8 @@ class CarrosSeeder extends Seeder
     {
         for ($i = 0; $i < 100; $i++){
             Carros::create([
-                'modelo' => 'teste' . $i,
-                'ano' => '20' .$i,
+                'modelo' => 'carro' . $i,
+                'ano' => '200' .$i,
                 'marca' => 'marca' .$i,
                 'cor' => 'cor' . $i,
                 'peso' => 'tolelada' .$i,
